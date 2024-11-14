@@ -39,4 +39,4 @@ The project was pretty straightforward to get running at 50% accuracy, but makin
 ## Files
 - `gradio_sms_text_classification.ipynb`: Main notebook with all the code for the app.
 - `SMSSpamCollection.csv`: Dataset for training.
-= `sms_text_classification_solution`: Initial notebook with model work.
+- `sms_text_classification_solution`: Initial notebook with model work.
